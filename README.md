@@ -8,7 +8,7 @@ Steps:
 
 * clone the repository
 
-        https://github.com/arohini/CategoryFinder.git
+        git clone https://github.com/arohini/CategoryFinder.git
 
 * Install the requirements
 
